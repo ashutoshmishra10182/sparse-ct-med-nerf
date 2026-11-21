@@ -10,7 +10,7 @@ Evaluated across sparse projection angles under physical Poisson noise:
 
 ## Repository Contents
 - `med_nerf_sparse_ct.ipynb`: Complete PyTorch pipeline for phantom generation, Poisson noise simulation, ray marching, and evaluation.
-- `Sparse_CT_Med_NeRF_IEEE_Paper.pdf`: IEEE-formatted multi-column manuscript draft.
+- `Sparse_CT_Med_NeRF.pdf`: IEEE-formatted multi-column manuscript draft.
 
 ## Author
 - **Ashutosh Mishra** — B.Tech ECE, Netaji Subhas University of Technology (NSUT), New Delhi
